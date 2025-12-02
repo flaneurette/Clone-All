@@ -24,6 +24,9 @@ https://cli.github.com/
 
 ## PowerShell (Windows)
 
+    # Login first
+    gh auth login
+    
     # Create a folder
     mkdir github-all
     cd github-all
